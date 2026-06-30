@@ -1,2 +1,2 @@
 # HUMAN-EMOTION-DETECTION-FROM-VOICE
-Detects human emotions like Happy,Sad,Angry,from voice using python &amp; deep learning. built with Librosa,Tensorflow
+Detects human emotions like Happy, Sad, and Angry from voice using Python and Deep Learning. Built with Librosa and TensorFlow.
