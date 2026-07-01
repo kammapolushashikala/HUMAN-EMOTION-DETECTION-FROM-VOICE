@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 import librosa
 import numpy as np
-
 def extract_features(file_path):
     """
     Audio file nunchi MFCC + Chroma + Mel features extract chestham
@@ -76,5 +74,4 @@ def extract_features(file_path):
 
     except Exception as e:
         print(f"Error extracting features: {e}")
->>>>>>> f0032836680bce774295b1f086492dee22fc91a6
         return None
